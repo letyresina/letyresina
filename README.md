@@ -5,7 +5,17 @@
   <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=letyresina&layout=compact&langs_count=16&theme=dracula"/>
 </div>
   
-  ### Desenvolvedora e designer
+  ## Um pouco sobre mim na parte técnica
+  
+  Eu fiz o curso de Desenvolvimento de Sistemas integrado ao Ensino Médio na Etec Professor Basilides de Godoy. Eu atualmente estou cursando Engenharia de Software na FIAP, e pretendo seguir na área pelo resto da minha vida. Eu me apaixonei por programação, por acaso, nas aulas de robótica no nono ano, ao programar robôs e ver o resultado. Além disso, eu gosto bastante de arte, e fiz um curso gratuito de Design Gráfico pela Collab Design. E desde então, vou estudando por conta própria e tento aplicar nas aplicações os meus conhecimentos! 
+  Ah, eu também fiz curso por uns anos de inglês e fui me virando para aprender sozinha. Sei falar de maneira intermediária em inglês. Sou brasileira, então o português é meu forte e estou aprendendo, atualmente e aos poucos, alemão!
+  
+  ## Um pouco sobre mim no geral
+  
+    Eu gosto bastante de programar e artes no geral. Meus hobbys são dançar, ler, cantar, e principalmente, estudar coisas novas. Eu adoro aprender e adoro os desafios de aprendizagem que eu passo no meu dia a dia. Adoro entender a mente humana, e já considerei seguir psicologia por conta disso. Algumas pessoas costumam dizer que sou uma "caixinha de surpresas", conformem descobrem tudo que gosto. Ah, e também sou bastante comunicativa e adoro falar sobre váááários assuntos! 
+  Sinta-se livre aqui no meu perfil, e caso deseja, pode entrar em contato comigo pelo meu instagram @letyresinaa!
+  
+  ##
   <div style="display: inline_block"> <br>
   <img align="center" alt="Lety-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lety-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -32,5 +42,3 @@
  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-  
- 
