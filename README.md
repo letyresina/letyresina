@@ -12,8 +12,8 @@
   
   ## Um pouco sobre mim no geral
   
-    Eu gosto bastante de programar e artes no geral. Meus hobbys são dançar, ler, cantar, e principalmente, estudar coisas novas. Eu adoro aprender e adoro os desafios de aprendizagem que eu passo no meu dia a dia. Adoro entender a mente humana, e já considerei seguir psicologia por conta disso. Algumas pessoas costumam dizer que sou uma "caixinha de surpresas", conformem descobrem tudo que gosto. Ah, e também sou bastante comunicativa e adoro falar sobre váááários assuntos! 
-  Sinta-se livre aqui no meu perfil, e caso deseja, pode entrar em contato comigo pelo meu instagram @letyresinaa!
+Eu gosto bastante de programar e artes no geral. Meus hobbys são dançar, ler, cantar, e principalmente, estudar coisas novas. Eu adoro aprender e adoro os desafios de aprendizagem que eu passo no meu dia a dia. Adoro entender a mente humana, e já considerei seguir psicologia por conta disso. Algumas pessoas costumam dizer que sou uma "caixinha de surpresas", conformem descobrem tudo que gosto. Ah, e também sou bastante comunicativa e adoro falar sobre váááários assuntos! 
+Sinta-se livre aqui no meu perfil, e caso deseja, pode entrar em contato comigo pelo meu instagram @letyresinaa (ou pode clicar no iconezinho logo abaixo!)
   
   ##
   <div style="display: inline_block"> <br>
