@@ -5,15 +5,25 @@
   <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=letyresina&layout=compact&langs_count=16&theme=dracula"/>
 </div>
   
+   ## Um pouco sobre mim no geral
+ 
+Bom, só me apresentando, eu me chamo Leticia, mas eu prefiro que me chamem de Lety, é um apelido carinhoso que gosto bastante (e sim, já fui fã de velozes e furiosos hihi). Eu gosto bastante de programar e artes no geral. Meus hobbys são dançar, ler, cantar, e principalmente, estudar coisas novas. Eu adoro aprender e adoro os desafios de aprendizagem que eu passo no meu dia a dia. Adoro entender a mente humana, e já considerei seguir psicologia por conta disso. Algumas pessoas costumam dizer que sou uma "caixinha de surpresas", conformem descobrem tudo que gosto. Ah, e também sou bastante comunicativa e adoro falar sobre váááários assuntos! 
+Sinta-se livre aqui no meu perfil, e caso deseja, pode entrar em contato comigo pelo meu instagram @letyresinaa (ou pode clicar no iconezinho logo abaixo!)
+  
   ## Um pouco sobre mim na parte técnica
   
   Eu fiz o curso de Desenvolvimento de Sistemas integrado ao Ensino Médio na Etec Professor Basilides de Godoy. Eu atualmente estou cursando Engenharia de Software na FIAP, e pretendo seguir na área pelo resto da minha vida. Eu me apaixonei por programação, por acaso, nas aulas de robótica no nono ano, ao programar robôs e ver o resultado. Além disso, eu gosto bastante de arte, e fiz um curso gratuito de Design Gráfico pela Collab Design. E desde então, vou estudando por conta própria e tento aplicar nas aplicações os meus conhecimentos! 
   Ah, eu também fiz curso por uns anos de inglês e fui me virando para aprender sozinha. Sei falar de maneira intermediária em inglês. Sou brasileira, então o português é meu forte e estou aprendendo, atualmente e aos poucos, alemão!
   
-  ## Um pouco sobre mim no geral
+  ## Algumas redes sociais que você pode me encontrar
   
-Eu gosto bastante de programar e artes no geral. Meus hobbys são dançar, ler, cantar, e principalmente, estudar coisas novas. Eu adoro aprender e adoro os desafios de aprendizagem que eu passo no meu dia a dia. Adoro entender a mente humana, e já considerei seguir psicologia por conta disso. Algumas pessoas costumam dizer que sou uma "caixinha de surpresas", conformem descobrem tudo que gosto. Ah, e também sou bastante comunicativa e adoro falar sobre váááários assuntos! 
-Sinta-se livre aqui no meu perfil, e caso deseja, pode entrar em contato comigo pelo meu instagram @letyresinaa (ou pode clicar no iconezinho logo abaixo!)
+  <div><br>
+  <a href="https://www.youtube.com/channel/UCAr8VQpSYyJD74XOrd1yV5Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/letyresinaa/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/letyresina" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+ <a href="discordapp.com/users/968307472974639104" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:leticiaresina@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/letyresinaa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
   ##
   <div style="display: inline_block"> <br>
@@ -29,15 +39,6 @@ Sinta-se livre aqui no meu perfil, e caso deseja, pode entrar em contato comigo 
   <img align="right" alt="Lety-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/968308409055203348/1016104872006926336/download20220900183740.png">
 </div>
 
-##
-  
-  <div><br>
-  <a href="https://www.youtube.com/channel/UCAr8VQpSYyJD74XOrd1yV5Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/letyresinaa/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/letyresina" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="discordapp.com/users/968307472974639104" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:leticiaresina@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/letyresinaa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
