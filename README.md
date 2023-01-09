@@ -5,16 +5,6 @@
   <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=letyresina&layout=compact&langs_count=16&theme=dracula"/>
 </div>
   
-   ## Um pouco sobre mim no geral
- 
-Bom, só me apresentando, eu me chamo Leticia, mas eu prefiro que me chamem de Lety, é um apelido carinhoso que gosto bastante (e sim, já fui fã de velozes e furiosos hihi). Eu gosto bastante de programar e artes no geral. Meus hobbys são dançar, ler, cantar, e principalmente, estudar coisas novas. Eu adoro aprender e adoro os desafios de aprendizagem que eu passo no meu dia a dia. Adoro entender a mente humana, e já considerei seguir psicologia por conta disso. Algumas pessoas costumam dizer que sou uma "caixinha de surpresas", conformem descobrem tudo que gosto. Ah, e também sou bastante comunicativa e adoro falar sobre váááários assuntos! 
-Sinta-se livre aqui no meu perfil, e caso deseja, pode entrar em contato comigo pelo meu instagram @letyresinaa (ou pode clicar no iconezinho logo abaixo!)
-  
-  ## Um pouco sobre mim na parte técnica
-  
-  Eu fiz o curso de Desenvolvimento de Sistemas integrado ao Ensino Médio na Etec Professor Basilides de Godoy. Eu atualmente estou cursando Engenharia de Software na FIAP, e pretendo seguir na área pelo resto da minha vida. Eu me apaixonei por programação, por acaso, nas aulas de robótica no nono ano, ao programar robôs e ver o resultado. Além disso, eu gosto bastante de arte, e fiz um curso gratuito de Design Gráfico pela Collab Design. E desde então, vou estudando por conta própria e tento aplicar nas aplicações os meus conhecimentos! 
-  Ah, eu também fiz curso por uns anos de inglês e fui me virando para aprender sozinha. Sei falar de maneira intermediária em inglês. Sou brasileira, então o português é meu forte e estou aprendendo, atualmente e aos poucos, alemão!
-  
   ## Algumas redes sociais que você pode me encontrar
   
   <div><br>
