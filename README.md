@@ -5,11 +5,12 @@
   <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=letyresina&layout=compact&langs_count=16&theme=dracula"/>
 </div>
   
-## Trabalhos
+## <img src="https://terraria.wiki.gg/images/8/8c/Emote_Lucy_The_Axe.gif">Trabalhos
  <div>
+   <img src="https://terraria.wiki.gg/images/f/f3/Emote_Emotion_Alert.gif">Alguns trabalhos para que você possa me conhecer mais:
     <img src="https://terraria.wiki.gg/images/4/40/Emote_Emotion_Love.gif"><a href="https://github.com/Golden-CompanyS"> Trabalho de Conclusão de Curso pela ETEC Professor Basilides de Godoy </a> <br>
-    <a href="https://gruporia.com.br/"> Site da Companhia de Teatro Grupo Ria </a> <br>
-    <a href="https://www.behance.net/leticiaresina"> Meu Behance para trabalhos de Design </a> 
+    <img src="https://terraria.wiki.gg/images/4/40/Emote_Emotion_Love.gif"><a href="https://gruporia.com.br/"> Site da Companhia de Teatro Grupo Ria </a> <br>
+    <img src="https://terraria.wiki.gg/images/4/40/Emote_Emotion_Love.gif"><a href="https://www.behance.net/leticiaresina"> Meu Behance para trabalhos de Design </a> 
   </div>
   
   ## Algumas redes sociais que você pode me encontrar
