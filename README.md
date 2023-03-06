@@ -1,5 +1,5 @@
 ## Oi! (Hi!) Eu sou a Lety! (I'm Lety!) Bem vindo(a)! (Welcome!)
-<img src="https://media.licdn.com/dms/image/C4D22AQE3GqjIb7qKlA/feedshare-shrink_800/0/1677525430425?e=2147483647&v=beta&t=qPlmGdPDc6boYc30TVrP5lZDj1OWlVSTjckqIFe5eSc"> 
+<center><img src="https://media.licdn.com/dms/image/C4D22AQE3GqjIb7qKlA/feedshare-shrink_800/0/1677525430425?e=2147483647&v=beta&t=qPlmGdPDc6boYc30TVrP5lZDj1OWlVSTjckqIFe5eSc" width="800" height="500"></center>
 <div>
   <a href="https://github.com/letyresina">
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=letyresina&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
