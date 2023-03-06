@@ -7,10 +7,10 @@
   
  ## <img src="https://terraria.wiki.gg/images/f/fb/Emote_Emote_Confused.gif">  Sobre mim!
   
-  <img src="https://terraria.wiki.gg/images/b/b0/Emote_Weather_Sunny.gif">  Sou formada em <b>Desenvolvimento de Sistemas</b> pela Etec Professor Basilides de Godoy;
-  <img src="https://terraria.wiki.gg/images/b/b0/Emote_Weather_Sunny.gif">  Atualmente estou cursando <b>Engenharia de Software</b> pela FIAP
-  <img src="https://terraria.wiki.gg/images/b/b0/Emote_Weather_Sunny.gif">  Inglês Intermediário
-  <img src="https://terraria.wiki.gg/images/9/92/Emote_Party_Balloons.gif"> Gosto muito de ler, dançar, escrever nas horas vagas. E tenho uma paixão enorme por Cybersecurity.
+  <img src="https://terraria.wiki.gg/images/b/b0/Emote_Weather_Sunny.gif">  Sou formada em <b>Desenvolvimento de Sistemas</b> pela Etec Professor Basilides de Godoy; <br>
+  <img src="https://terraria.wiki.gg/images/b/b0/Emote_Weather_Sunny.gif">  Atualmente estou cursando <b>Engenharia de Software</b> pela FIAP <br>
+  <img src="https://terraria.wiki.gg/images/b/b0/Emote_Weather_Sunny.gif">  Inglês Intermediário <br>
+  <img src="https://terraria.wiki.gg/images/9/92/Emote_Party_Balloons.gif"> Gosto muito de ler, dançar, escrever nas horas vagas. E tenho uma paixão enorme por Cybersecurity. <br>
   
 ## <img src="https://terraria.wiki.gg/images/8/8c/Emote_Lucy_The_Axe.gif"> Trabalhos
  <div>
