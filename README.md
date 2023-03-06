@@ -5,6 +5,13 @@
   <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=letyresina&layout=compact&langs_count=16&theme=dracula"/>
 </div>
   
+## Trabalhos
+ <div>
+    <a href="https://github.com/Golden-CompanyS"> Trabalho de Conclusão de Curso pela ETEC Professor Basilides de Godoy </a> <br>
+    <a href="https://gruporia.com.br/"> Site da Companhia de Teatro Grupo Ria </a> <br>
+    <a href="https://www.behance.net/leticiaresina"> Meu Behance para trabalhos de Design </a> 
+  </div>
+  
   ## Algumas redes sociais que você pode me encontrar
   
   <div><br>
