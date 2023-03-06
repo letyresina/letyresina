@@ -1,4 +1,4 @@
-## Oii! Eu sou a Lety! Bem vindo(a)!
+## Oi! (Hi!) Eu sou a Lety! (I'm Lety!) Bem vindo(a)! (Welcome!)
 <img src="https://media.licdn.com/dms/image/C4D22AQE3GqjIb7qKlA/feedshare-shrink_800/0/1677525430425?e=2147483647&v=beta&t=qPlmGdPDc6boYc30TVrP5lZDj1OWlVSTjckqIFe5eSc"> 
 <div>
   <a href="https://github.com/letyresina">
