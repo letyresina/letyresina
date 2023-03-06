@@ -7,7 +7,7 @@
   
 ## Trabalhos
  <div>
-    <a href="https://github.com/Golden-CompanyS"> Trabalho de Conclusão de Curso pela ETEC Professor Basilides de Godoy </a> <br>
+    <img src="https://terraria.wiki.gg/images/4/40/Emote_Emotion_Love.gif"><a href="https://github.com/Golden-CompanyS"> Trabalho de Conclusão de Curso pela ETEC Professor Basilides de Godoy </a> <br>
     <a href="https://gruporia.com.br/"> Site da Companhia de Teatro Grupo Ria </a> <br>
     <a href="https://www.behance.net/leticiaresina"> Meu Behance para trabalhos de Design </a> 
   </div>
