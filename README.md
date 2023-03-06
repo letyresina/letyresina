@@ -1,4 +1,5 @@
 ## Oii! Eu sou a Lety! Bem vindo(a)!
+<img src="https://media.licdn.com/dms/image/C4D22AQE3GqjIb7qKlA/feedshare-shrink_800/0/1677525430425?e=2147483647&v=beta&t=qPlmGdPDc6boYc30TVrP5lZDj1OWlVSTjckqIFe5eSc"> 
 <div>
   <a href="https://github.com/letyresina">
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=letyresina&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -17,11 +18,11 @@
     <img src="https://terraria.wiki.gg/images/f/f3/Emote_Emotion_Alert.gif">  Alguns trabalhos para que você possa me conhecer mais: <br>
     <img src="https://terraria.wiki.gg/images/4/40/Emote_Emotion_Love.gif"><a href="https://github.com/Golden-CompanyS"> Trabalho de Conclusão de Curso pela ETEC Professor Basilides de Godoy </a> <br>
     <img src="https://terraria.wiki.gg/images/4/40/Emote_Emotion_Love.gif"><a href="https://gruporia.com.br/"> Site da Companhia de Teatro Grupo Ria </a> <br>
-    <img src="https://terraria.wiki.gg/images/4/40/Emote_Emotion_Love.gif"><a href="https://www.behance.net/leticiaresina"> Meu Behance para trabalhos de Design </a>
+    <img src="https://terraria.wiki.gg/images/4/40/Emote_Emotion_Love.gif"><a href="https://www.behance.net/leticiaresina"> Meu Behance para trabalhos de Design </a> <br>
    Para 
   </div>
   
-  ## Para entrar em contato comigo, basta escolher qual rede social for melhor!
+  ## Para entrar em contato comigo!
   
   <div><br>
   <a href="https://www.youtube.com/channel/UCAr8VQpSYyJD74XOrd1yV5Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
