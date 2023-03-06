@@ -5,15 +5,23 @@
   <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=letyresina&layout=compact&langs_count=16&theme=dracula"/>
 </div>
   
+ ## <img src="https://terraria.wiki.gg/images/f/fb/Emote_Emote_Confused.gif">  Sobre mim!
+  
+  <img src="https://terraria.wiki.gg/images/b/b0/Emote_Weather_Sunny.gif">  Sou formada em <b>Desenvolvimento de Sistemas</b> pela Etec Professor Basilides de Godoy;
+  <img src="https://terraria.wiki.gg/images/b/b0/Emote_Weather_Sunny.gif">  Atualmente estou cursando <b>Engenharia de Software</b> pela FIAP
+  <img src="https://terraria.wiki.gg/images/b/b0/Emote_Weather_Sunny.gif">  Inglês Intermediário
+  <img src="https://terraria.wiki.gg/images/9/92/Emote_Party_Balloons.gif"> Gosto muito de ler, dançar, escrever nas horas vagas. E tenho uma paixão enorme por Cybersecurity.
+  
 ## <img src="https://terraria.wiki.gg/images/8/8c/Emote_Lucy_The_Axe.gif"> Trabalhos
  <div>
-   <img src="https://terraria.wiki.gg/images/f/f3/Emote_Emotion_Alert.gif"> Alguns trabalhos para que você possa me conhecer mais: <br>
+    <img src="https://terraria.wiki.gg/images/f/f3/Emote_Emotion_Alert.gif">  Alguns trabalhos para que você possa me conhecer mais: <br>
     <img src="https://terraria.wiki.gg/images/4/40/Emote_Emotion_Love.gif"><a href="https://github.com/Golden-CompanyS"> Trabalho de Conclusão de Curso pela ETEC Professor Basilides de Godoy </a> <br>
     <img src="https://terraria.wiki.gg/images/4/40/Emote_Emotion_Love.gif"><a href="https://gruporia.com.br/"> Site da Companhia de Teatro Grupo Ria </a> <br>
-    <img src="https://terraria.wiki.gg/images/4/40/Emote_Emotion_Love.gif"><a href="https://www.behance.net/leticiaresina"> Meu Behance para trabalhos de Design </a> 
+    <img src="https://terraria.wiki.gg/images/4/40/Emote_Emotion_Love.gif"><a href="https://www.behance.net/leticiaresina"> Meu Behance para trabalhos de Design </a>
+   Para 
   </div>
   
-  ## Algumas redes sociais que você pode me encontrar
+  ## Para entrar em contato comigo, basta escolher qual rede social for melhor!
   
   <div><br>
   <a href="https://www.youtube.com/channel/UCAr8VQpSYyJD74XOrd1yV5Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
