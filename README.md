@@ -32,7 +32,7 @@
   <img align="center" alt="Lety-MYSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"> 
   <img align="center" alt="Lety-Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
   <img align="center" alt="Lety-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-  <img align="right" alt="Lety-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/968308409055203348/1016104872006926336/download20220900183740.png> 
+  <img align="right" alt="Lety-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWRhYzVjM2VhZjZjY2I2MGI3YjMyODE2OGJiMzhkZDU0OTk1ZWJkOCZjdD1n/b3pt5Wjdm1m2rrbPL3/giphy.gif"> 
 </div>
 
 
