@@ -4,8 +4,8 @@
   </div>
 <div>
   <a href="https://github.com/letyresina">
-  <img align="right" height="180cm" src="https://github-readme-stats.vercel.app/api?username=letyresina&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=letyresina&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=letyresina&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=letyresina&layout=compact&langs_count=16&theme=dracula"/>
 </div>
   
  ## <img src="https://terraria.wiki.gg/images/f/fb/Emote_Emote_Confused.gif">  Sobre mim!
@@ -21,7 +21,7 @@
     <img src="https://terraria.wiki.gg/images/4/40/Emote_Emotion_Love.gif"><a href="https://github.com/Golden-CompanyS"> Trabalho de Conclusão de Curso pela ETEC Professor Basilides de Godoy </a> <br>
     <img src="https://terraria.wiki.gg/images/4/40/Emote_Emotion_Love.gif"><a href="https://gruporia.com.br/"> Site da Companhia de Teatro Grupo Ria </a> <br>
     <img src="https://terraria.wiki.gg/images/4/40/Emote_Emotion_Love.gif"><a href="https://www.behance.net/leticiaresina"> Meu Behance para trabalhos de Design </a> <br>
-   Para 
+             Para mais informações, acesse meu <a href="https://www.linkedin.com/in/letyresinaa/">LinkedIn</a> ou meus <a href="https://github.com/letyresina?tab=repositories"> repositórios </a> no GitHub!
   </div>
   
   ## Para entrar em contato comigo!
