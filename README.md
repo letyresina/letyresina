@@ -1,4 +1,4 @@
-## Oi! (Hi!) Eu sou a Lety! (I'm Lety!) Bem vindo(a)! (Welcome!)
+## <img src="https://terraria.wiki.gg/images/7/74/Emote_Weather_Rain.gif"> Oi! (Hi!) Eu sou a Lety! (I'm Lety!) Bem vindo(a)! (Welcome!)
 <div>
             <img align="center" src="https://media.licdn.com/dms/image/C4D22AQE3GqjIb7qKlA/feedshare-shrink_800/0/1677525430425?e=2147483647&v=beta&t=qPlmGdPDc6boYc30TVrP5lZDj1OWlVSTjckqIFe5eSc" width="500" height="300">
   </div>
@@ -24,7 +24,7 @@
              Para mais informações, acesse meu <a href="https://www.linkedin.com/in/letyresinaa/">LinkedIn</a> ou meus <a href="https://github.com/letyresina?tab=repositories"> repositórios </a> no GitHub!
   </div>
   
-  ## Para entrar em contato comigo!
+  ## <img src="https://terraria.wiki.gg/images/3/3d/Emote_Weather_Rainbow.gif"> Para entrar em contato comigo!
   
   <div><br>
   <a href="https://www.youtube.com/channel/UCAr8VQpSYyJD74XOrd1yV5Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
@@ -47,7 +47,6 @@
    <img align="center" alt="Lety-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="right" alt="Lety-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWRhYzVjM2VhZjZjY2I2MGI3YjMyODE2OGJiMzhkZDU0OTk1ZWJkOCZjdD1n/b3pt5Wjdm1m2rrbPL3/giphy.gif"> 
 </div>
-
 
  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
