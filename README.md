@@ -21,6 +21,7 @@
     <img src="https://terraria.wiki.gg/images/4/40/Emote_Emotion_Love.gif"><a href="https://github.com/Golden-CompanyS"> Trabalho de Conclusão de Curso pela ETEC Professor Basilides de Godoy </a> <br>
     <img src="https://terraria.wiki.gg/images/4/40/Emote_Emotion_Love.gif"><a href="https://gruporia.com.br/"> Site da Companhia de Teatro Grupo Ria </a> <br>
     <img src="https://terraria.wiki.gg/images/4/40/Emote_Emotion_Love.gif"><a href="https://www.behance.net/leticiaresina"> Meu Behance para trabalhos de Design </a> <br>
+             <img src="https://terraria.wiki.gg/images/f/f3/Emote_Emotion_Alert.gif"> <a href="https://medium.com/@letyresina">Artigos para me conhecer no Medium</a> <br>
              Para mais informações, acesse meu <a href="https://www.linkedin.com/in/letyresinaa/">LinkedIn</a> ou meus <a href="https://github.com/letyresina?tab=repositories"> repositórios </a> no GitHub!
   </div>
   
