@@ -2,6 +2,9 @@
 <div>
             <img align="center" src="https://media.licdn.com/dms/image/C4D22AQE3GqjIb7qKlA/feedshare-shrink_800/0/1677525430425?e=2147483647&v=beta&t=qPlmGdPDc6boYc30TVrP5lZDj1OWlVSTjckqIFe5eSc" width="500" height="300">
   </div>
+  <a href="https://github.com/letyresina">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=letyresina&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=letyresina&layout=compact&langs_count=7&theme=dracula"/>
   
 <div>
   <a href="https://github.com/letyresina">
