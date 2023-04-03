@@ -50,9 +50,5 @@
   <img align="center" alt="Lety-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
    <img align="center" alt="Lety-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="right" alt="Lety-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWRhYzVjM2VhZjZjY2I2MGI3YjMyODE2OGJiMzhkZDU0OTk1ZWJkOCZjdD1n/b3pt5Wjdm1m2rrbPL3/giphy.gif"> 
-</div>
-
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-
- 
+</div> 
 </div>
