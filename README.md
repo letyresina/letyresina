@@ -3,8 +3,9 @@
             <img align="center" src="https://media.licdn.com/dms/image/C4D22AQE3GqjIb7qKlA/feedshare-shrink_800/0/1677525430425?e=2147483647&v=beta&t=qPlmGdPDc6boYc30TVrP5lZDj1OWlVSTjckqIFe5eSc" width="500" height="300"> <br>
   </div>
   <a href="https://github.com/letyresina">
+  <br>
             
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=letyresina&langs_count=7&theme=dracula"/>
+  <center><img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=letyresina&layout=compact&langs_count=7&theme=dracula"/></center>
   
 <div>
   <a href="https://github.com/letyresina">
