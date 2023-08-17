@@ -4,7 +4,7 @@
   </div>
   <a href="https://github.com/letyresina">
             
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=letyresina&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=letyresina&langs_count=7&theme=dracula"/>
   
 <div>
   <a href="https://github.com/letyresina">
