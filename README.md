@@ -1,10 +1,10 @@
 ## <img src="https://terraria.wiki.gg/images/7/74/Emote_Weather_Rain.gif"> Oi! (Hi!) Eu sou a Lety! (I'm Lety!) Bem vindo(a)! (Welcome!)
 <div>
-            <img align="center" src="https://media.licdn.com/dms/image/C4D22AQE3GqjIb7qKlA/feedshare-shrink_800/0/1677525430425?e=2147483647&v=beta&t=qPlmGdPDc6boYc30TVrP5lZDj1OWlVSTjckqIFe5eSc" width="500" height="300">
+            <img align="center" src="https://media.licdn.com/dms/image/C4D22AQE3GqjIb7qKlA/feedshare-shrink_800/0/1677525430425?e=2147483647&v=beta&t=qPlmGdPDc6boYc30TVrP5lZDj1OWlVSTjckqIFe5eSc" width="500" height="300"> <br>
   </div>
   <a href="https://github.com/letyresina">
             
-  <center><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=letyresina&layout=large&langs_count=7&theme=dracula"/></center>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=letyresina&layout=large&langs_count=7&theme=dracula"/>
   
 <div>
   <a href="https://github.com/letyresina">
