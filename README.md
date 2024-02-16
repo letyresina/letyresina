@@ -6,7 +6,7 @@
   <br>
               
 <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=letyresina&show_icons=true&theme=dracula"/>
-<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=letyresina&layout=donut&langs_count=10&theme=dracula"/>
+<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=letyresina&layout=donut&langs_count=5&theme=dracula"/>
   
 <div>
   <a href="https://github.com/letyresina">
