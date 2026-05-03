@@ -1,34 +1,34 @@
-## <img src="https://terraria.wiki.gg/images/7/74/Emote_Weather_Rain.gif"> Oi! (Hi!) Eu sou a Lety! (I'm Lety!) Bem vindo(a)! (Welcome!)
+## Oi! (Hi!) Eu sou a Lety! (I'm Lety!) Bem vindo(a)! (Welcome!)
 <div>
             <img width="960" height="535" alt="download" src="https://github.com/user-attachments/assets/7e6a5c92-2240-4a35-a2db-7dfeac75f297" /> <br>
-  </div>
-  <br>
-              
+  </div>      
   
 <div>
   <a href="https://github.com/letyresina">
 </div>
   
- ## <img src="https://terraria.wiki.gg/images/f/fb/Emote_Emote_Confused.gif">  Sobre mim!
+ ## <img width="14" height="18" alt="Emote_Emote_Confused" src="https://github.com/user-attachments/assets/941f1f2b-2559-432b-9372-4abd2970d41d" /> Sobre mim!
   
-  <img src="https://terraria.wiki.gg/images/b/b0/Emote_Weather_Sunny.gif">  Atualmente estou cursando <b>Engenharia de Software</b> pela FIAP <br>
-  <img src="https://terraria.wiki.gg/images/b/b0/Emote_Weather_Sunny.gif">  Sou formada em <b>Desenvolvimento de Sistemas</b> pela Etec Professor Basilides de Godoy; <br>
-  <img src="https://terraria.wiki.gg/images/b/b0/Emote_Weather_Sunny.gif">  Inglês Intermediário <br>
-  <img src="https://terraria.wiki.gg/images/9/92/Emote_Party_Balloons.gif"> Gosto muito de ler, dançar e escrever nas horas vagas. E tenho uma paixão sobre UX/UI design. <br>
+  <img width="18" height="18" alt="Emote_Weather_Sunny" src="https://github.com/user-attachments/assets/79e6a578-8363-43e5-af01-dfadca242974" /> Atualmente estou cursando <b>Engenharia de Software</b> pela FIAP <br>
+  <img width="18" height="18" alt="Emote_Weather_Sunny" src="https://github.com/user-attachments/assets/79e6a578-8363-43e5-af01-dfadca242974" />  Sou formada em <b>Desenvolvimento de Sistemas</b> pela Etec Professor Basilides de Godoy; <br>
+  <img width="18" height="18" alt="Emote_Weather_Sunny" src="https://github.com/user-attachments/assets/79e6a578-8363-43e5-af01-dfadca242974" />  Inglês Intermediário e estudando espanhol;<br>
+  <img width="18" height="18" alt="Emote_Weather_Sunny" src="https://github.com/user-attachments/assets/79e6a578-8363-43e5-af01-dfadca242974" /> Gosto muito de ler, dançar e escrever nas horas vagas. <br>
   
-## <img src="https://terraria.wiki.gg/images/8/8c/Emote_Lucy_The_Axe.gif"> Trabalhos
+## <img width="20" height="18" alt="Emote_Lucy_The_Axe" src="https://github.com/user-attachments/assets/e056d5f4-3f27-4e7c-948c-7a774f2fca6c" /> Trabalhos
  <div>
-    <img src="https://terraria.wiki.gg/images/f/f3/Emote_Emotion_Alert.gif">  Alguns trabalhos para que você possa me conhecer mais: <br>
-    <img src="https://terraria.wiki.gg/images/4/40/Emote_Emotion_Love.gif"><a href="https://github.com/Golden-CompanyS"> Trabalho de Conclusão de Curso pela ETEC Professor Basilides de Godoy </a> <br>
-    <img src="https://terraria.wiki.gg/images/4/40/Emote_Emotion_Love.gif"><a href="https://gruporia.com.br/"> Site da Companhia de Teatro Grupo Ria </a> <br>
-    <img src="https://terraria.wiki.gg/images/4/40/Emote_Emotion_Love.gif"><a href="https://github.com/FIAP-Tech-Girls"> Trabalhos da faculdade com as Tech Girls na FIAP 1º ano </a> <br>
-    <img src="https://terraria.wiki.gg/images/4/40/Emote_Emotion_Love.gif"><a href="https://github.com/Tech-Bloom-FIAP"> Hack for Change - Hackathon 2023 em parceria FIAP e Passos Mágicos </a> <br>
-    <img src="https://terraria.wiki.gg/images/4/40/Emote_Emotion_Love.gif"><a href="https://www.behance.net/leticiaresina"> Meu Behance para trabalhos de Design </a> <br>
-             <img src="https://terraria.wiki.gg/images/4/40/Emote_Emotion_Love.gif"> <a href="https://medium.com/@letyresinaa">Artigos publicados no Medium</a> <br>
+    <img width="6" height="18" alt="Emote_Emotion_Alert" src="https://github.com/user-attachments/assets/9748964c-6c4a-4ee1-82a1-99845aff51da" /> Alguns trabalhos para que você possa me conhecer mais: <br>
+    <img width="16" height="14" alt="Emote_Emotion_Love" src="https://github.com/user-attachments/assets/5810c3cd-c552-4d9a-9508-a365e4a7ea2e"/><a href="https://github.com/Golden-CompanyS"> Trabalho de Conclusão de Curso pela ETEC Professor Basilides de Godoy </a> <br>
+    <img width="16" height="14" alt="Emote_Emotion_Love" src="https://github.com/user-attachments/assets/5810c3cd-c552-4d9a-9508-a365e4a7ea2e"/><a href="https://github.com/orgs/Nexora-FIAP/repositories"> Trabalho de Conclusão de Curso pela FIAP </a> <br>
+    <img width="16" height="14" alt="Emote_Emotion_Love" src="https://github.com/user-attachments/assets/5810c3cd-c552-4d9a-9508-a365e4a7ea2e"/><a href="https://github.com/Golden-CompanyS"> Trabalho de Conclusão de Curso pela ETEC Professor Basilides de Godoy </a> <br>       
+    <img width="16" height="14" alt="Emote_Emotion_Love" src="https://github.com/user-attachments/assets/5810c3cd-c552-4d9a-9508-a365e4a7ea2e"/><a href="https://gruporia.com.br/"> Site da Companhia de Teatro Grupo Ria </a> <br>
+    <img width="16" height="14" alt="Emote_Emotion_Love" src="https://github.com/user-attachments/assets/5810c3cd-c552-4d9a-9508-a365e4a7ea2e"/><a href="https://github.com/FIAP-Tech-Girls"> Trabalhos da faculdade com as Tech Girls na FIAP 1º ano </a> <br>
+    <img width="16" height="14" alt="Emote_Emotion_Love" src="https://github.com/user-attachments/assets/5810c3cd-c552-4d9a-9508-a365e4a7ea2e"/><a href="https://github.com/Tech-Bloom-FIAP"> Hack for Change - Hackathon 2023 em parceria FIAP e Passos Mágicos </a> <br>
+    <img width="16" height="14" alt="Emote_Emotion_Love" src="https://github.com/user-attachments/assets/5810c3cd-c552-4d9a-9508-a365e4a7ea2e"/><a href="https://www.behance.net/leticiaresina"> Meu Behance para trabalhos de Design </a> <br>
+    <img width="16" height="14" alt="Emote_Emotion_Love" src="https://github.com/user-attachments/assets/5810c3cd-c552-4d9a-9508-a365e4a7ea2e"/><a href="https://medium.com/@letyresinaa"> Artigos publicados no Medium</a> <br>
              Para mais informações, acesse meu <a href="https://www.linkedin.com/in/letyresinaa/">LinkedIn</a> ou meus <a href="https://github.com/letyresina?tab=repositories"> repositórios </a> no GitHub!
   </div>
   
-  ## <img src="https://terraria.wiki.gg/images/3/3d/Emote_Weather_Rainbow.gif"> Para entrar em contato comigo!
+  ## <img width="24" height="10" alt="Emote_Weather_Rainbow" src="https://github.com/user-attachments/assets/80c03558-a9db-43be-9597-d69076c92dec" /> Para entrar em contato comigo!
   
   <div><br>
   <a href="https://www.youtube.com/channel/UCAr8VQpSYyJD74XOrd1yV5Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
@@ -39,17 +39,12 @@
               <a href="https://medium.com/@letyresinaa"><img src="https://camo.githubusercontent.com/790f5501936c045ab519d868c9f6303bd8e6d34eb0c5e596bc75d647a30cfc27/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d656469756d2d2532333132313030452e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6d656469756d266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f6d656469756d2e636f6d2f40676162755f62" target="_blank"></a>
   
   ##
-  <div style="display: inline_block"> <br>
-  <img align="center" alt="Lety-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Lety-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Lety-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <div style="display:inline"> <br>
   <img align="center" alt="Lety-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Lety-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Lety-Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
   <img align="center" alt="Lety-MYSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"> 
-  <img align="center" alt="Lety-Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
-  <img align="center" alt="Lety-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-   <img align="center" alt="Lety-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="right" alt="Lety-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWRhYzVjM2VhZjZjY2I2MGI3YjMyODE2OGJiMzhkZDU0OTk1ZWJkOCZjdD1n/b3pt5Wjdm1m2rrbPL3/giphy.gif"> 
+  <img align="center" alt="Lety-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="right" alt="Lety-pic" height="150" style="border-radius:50;" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWRhYzVjM2VhZjZjY2I2MGI3YjMyODE2OGJiMzhkZDU0OTk1ZWJkOCZjdD1n/b3pt5Wjdm1m2rrbPL3/giphy.gif"> 
 </div> 
 </div>
