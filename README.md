@@ -11,7 +11,7 @@
   
   <img width="18" height="18" alt="Emote_Weather_Sunny" src="https://github.com/user-attachments/assets/79e6a578-8363-43e5-af01-dfadca242974" /> Atualmente estou cursando <b>Engenharia de Software</b> pela FIAP <br>
   <img width="18" height="18" alt="Emote_Weather_Sunny" src="https://github.com/user-attachments/assets/79e6a578-8363-43e5-af01-dfadca242974" />  Sou formada em <b>Desenvolvimento de Sistemas</b> pela Etec Professor Basilides de Godoy; <br>
-  <img width="18" height="18" alt="Emote_Weather_Sunny" src="https://github.com/user-attachments/assets/79e6a578-8363-43e5-af01-dfadca242974" />  Inglês Intermediário e estudando espanhol;<br>
+  <img width="18" height="18" alt="Emote_Weather_Sunny" src="https://github.com/user-attachments/assets/79e6a578-8363-43e5-af01-dfadca242974" />  Inglês Avançado e estudando espanhol;<br>
   <img width="18" height="18" alt="Emote_Weather_Sunny" src="https://github.com/user-attachments/assets/79e6a578-8363-43e5-af01-dfadca242974" /> Gosto muito de ler, dançar e escrever nas horas vagas. <br>
   
 ## <img width="20" height="18" alt="Emote_Lucy_The_Axe" src="https://github.com/user-attachments/assets/e056d5f4-3f27-4e7c-948c-7a774f2fca6c" /> Trabalhos
